@@ -19,7 +19,7 @@ expect {
 }
 
 #create an output file
-set filename "simple_bash_example_output.txt"
+set filename "awesome_bash_example_output.txt"
 # open the filename for writing
 set fileId [open $filename "w"]
 
